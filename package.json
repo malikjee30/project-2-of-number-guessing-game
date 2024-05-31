@@ -1,0 +1,20 @@
+{
+  "name": "06_ghulam_nasir-number-guess_2",
+  "version": "1.1.0",
+  "description": "this is a number guessing game CLI Project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghulam Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
